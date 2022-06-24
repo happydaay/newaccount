@@ -16,6 +16,8 @@ public class IncomeVerifiedE extends AbstractEvent {
 
     public IncomeVerifiedE() {
         super();
+
+        
     }
     // keep
 
